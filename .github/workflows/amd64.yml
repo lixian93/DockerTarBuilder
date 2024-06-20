@@ -37,4 +37,4 @@ jobs:
 
     - name: Clean up intermediate files
       run: |
-        rm *-amd64.tar
+        rm *-amd64.tar.gz
