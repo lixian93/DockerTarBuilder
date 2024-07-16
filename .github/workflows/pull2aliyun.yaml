@@ -1,4 +1,4 @@
-name: Docker
+name: pull2aliyun
 
 on:
   workflow_dispatch:
